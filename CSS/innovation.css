@@ -33,6 +33,10 @@ a{
 p{
   letter-spacing: 2px;
 }
+p{
+  text-align: justify/left/right/center;
+  text-justify: values;
+}
 
 .menu-bar {
   background-color: rgb(30,50,144);
