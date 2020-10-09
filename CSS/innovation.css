@@ -111,4 +111,6 @@ p,h2,h3 {
 }
 
 #logo {
-}
+  float: right;
+  width: 33%
+  }
