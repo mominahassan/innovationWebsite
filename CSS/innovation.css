@@ -1,32 +1,11 @@
-*{
-
-}
-
 body{
 margin-left: 250px;
 margin-right: 250px;
 margin-top: 30px;
-<<<<<<< HEAD
 background-color: rgba(155, 225, 230, 0.1);
-}
-
-.one{
-background-color: rgba(155, 225, 230, 0.5);
-border-style: solid;
-padding-top: 20px;
-padding-right: 200px;
-padding-left: 200px;
-
-}
-
-.two{
-  font-size: 25px;
-  border-bottom: solid;
-  margin-left: 300px;
-  margin-right: 350px;
-=======
 font-family: "Times New Roman", Times, serif;
 }
+
 #wrapper {
   max-width: 960px;
   margin: 0 auto;
@@ -109,6 +88,7 @@ p{
 .menu-bar ul li:hover .sub-menu-1 ul li a:hover {
   color: #b2ff00;
 }
+<<<<<<< HEAD
 
 
 [class*="col-"]{
@@ -128,3 +108,5 @@ p{
 .col-small-80 {width: 80%;}
 .col-small-90 {width: 90%;}
 .col-small-100 {width: 100%;}
+=======
+>>>>>>> 6d8893bb27c8c9f30678f234c7fe47b7b5a2da37
