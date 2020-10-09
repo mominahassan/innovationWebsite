@@ -91,13 +91,19 @@ p{
   color: #5C9CEA;
 }
 
-<<<<<<< Updated upstream
 p,h2,h3 {
-  margin-right: 400px;
-=======
+  margin-right: 400px;}
+
 .factbox{
   border-style: solid;
   float: right;
   width: 33%;
->>>>>>> Stashed changes
+}
+.together{
+  margin-right: 0px;
+  text-align: center;
+  text-decoration: underline;
+}
+#logo {
+  
 }
