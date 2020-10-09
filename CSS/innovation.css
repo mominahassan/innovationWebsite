@@ -1,7 +1,12 @@
+*{
+
+}
+
 body{
 margin-left: 250px;
 margin-right: 250px;
 margin-top: 30px;
+<<<<<<< HEAD
 background-color: rgba(155, 225, 230, 0.1);
 }
 
@@ -19,4 +24,109 @@ padding-left: 200px;
   border-bottom: solid;
   margin-left: 300px;
   margin-right: 350px;
+=======
+font-family: "Times New Roman", Times, serif;
 }
+#wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 32px;
+}
+header{
+  height: 150px;
+  padding: 4px;
+}
+header h1 {
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 50px;
+}
+header h2 {
+  font-variant: small-caps;
+  text-align: center;
+}
+<<<<<<< HEAD
+
+a{
+  text-decoration: none;
+}
+
+p{
+  letter-spacing: 2px;
+}
+
+.menu-bar {
+  background-color: rgb(30,50,144);
+  text-align: center;
+}
+
+.menu-bar ul {
+  display: inline-flex;
+  list-style: none;
+  color: #fff;
+}
+
+.menu-bar ul li {
+  width: 200px;
+  margin: 10px;
+  padding: 15px;
+}
+
+.menu-bar ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.menu-bar ul li:hover  {
+  background-color: #5C9CEA;
+}
+
+.sub-menu-1 {
+  display: none;
+}
+.menu-bar ul li:hover .sub-menu-1{
+  display: block;
+  position: absolute;
+  margin-top: 15px;
+  margin-left: -15px;
+}
+.menu-bar ul li:hover .sub-menu-1 ul{
+  display: block;
+  margin: 10px;
+  background-color: rgb(30,50,144);
+}
+.menu-bar ul li:hover .sub-menu-1 ul li{
+  width: 150px;
+  padding: 10px;
+  border-bottom: 1px dotted #fff;
+  background: transparent;
+  border-radius: 0;
+  text-align: left;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child{
+  border-bottom: none;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li a:hover {
+  color: #b2ff00;
+}
+
+
+[class*="col-"]{
+  float: left;
+  padding: 1vw;
+  border: 1px solid grey;
+>>>>>>> ea2bbb575a9deaf163ebc82083833cc8c7f04594
+}
+
+.col-small-10 {width: 10%;}
+.col-small-20 {width: 20%;}
+.col-small-30 {width: 30%;}
+.col-small-40 {width: 40%;}
+.col-small-50 {width: 50%;}
+.col-small-60 {width: 60%;}
+.col-small-70 {width: 70%;}
+.col-small-80 {width: 80%;}
+.col-small-90 {width: 90%;}
+.col-small-100 {width: 100%;}
+=======
+>>>>>>> b170910daaaae6a211d8a7d001129a932a571428
