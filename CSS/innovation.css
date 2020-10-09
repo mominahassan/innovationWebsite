@@ -4,7 +4,7 @@ margin-right: 250px;
 margin-top: 30px;
 margin-bottom: 50px;
 background-color: rgba(155, 225, 230, 0.1);
-font-family: "Times New Roman", Times, serif;
+font-family: "paletino linotype", "book antiqua", palatino, serif;
 }
 
 #wrapper {
@@ -91,9 +91,10 @@ p{
   color: #5C9CEA;
 }
 
-p,h2,h3 {
-  margin-right: 400px;}
 
+p,h2,h3 {
+  margin-right: 400px;
+}
 .factbox{
   border-style: solid;
   float: right;
@@ -104,6 +105,6 @@ p,h2,h3 {
   text-align: center;
   text-decoration: underline;
 }
+
 #logo {
-  
 }
