@@ -3,31 +3,3 @@ margin-left: 250px;
 margin-right: 250px;
 margin-top: 30px;
 }
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-}
-
-
-*{
-  box-sizing: border-box;
-}
-
-[class*="col-"]{
-  float: left;
-  padding: 1vw;
-  border: 1px solid grey;
-}
-
-.col-small-10 {width: 10%;}
-.col-small-20 {width: 20%;}
-.col-small-30 {width: 30%;}
-.col-small-40 {width: 40%;}
-.col-small-50 {width: 50%;}
-.col-small-60 {width: 60%;}
-.col-small-70 {width: 70%;}
-.col-small-80 {width: 80%;}
-.col-small-90 {width: 90%;}
-.col-small-100 {width: 100%;}
