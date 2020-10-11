@@ -112,6 +112,24 @@ p{
       box-sizing: border-box;
     }
 
+
+
+@media (max-width: 767px) {
+  .menu-bar ul {
+    display: table;
+    width: 100%
+  }
+  .menu-bar ul li {
+    text-align: left;
+  }
+  .menu-bar ul li ul {
+    width: 100%
+    z-index: 1;
+  }
+}
+
+
+
   [class*="col-"]{
      float: left;
      padding: 1vw;
