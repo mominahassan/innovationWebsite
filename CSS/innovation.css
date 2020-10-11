@@ -95,17 +95,17 @@ p{
   color: #5C9CEA;
 }
 
-
 p,h2,h3 {
   margin-right: 450px;
 }
+
 .factbox{
   border-style: solid;
   float: right;
   width: 20%;
-  right: 200px;
+  margin-left: 560px;
+  margin-top: 100px;
   position: absolute;
-
 }
 .together{
   margin-right: 0px;
@@ -113,7 +113,7 @@ p,h2,h3 {
   text-decoration: underline;
 }
 
-#logo {
+#img{
   float: right;
   width: 33%
   position: absolute;
